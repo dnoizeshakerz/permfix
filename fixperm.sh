@@ -1,3 +1,5 @@
+#!/bin/bash
+
 #Created by Azlan. This script is for fixing domain docroot (NOT HOMEDIR) of a website hosted in cPanel/Directadmin server, or basically any panel that requires 755/644 permission files.
 
 
